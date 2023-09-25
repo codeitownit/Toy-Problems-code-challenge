@@ -39,5 +39,5 @@
     - Terminal
 
 ## Support and contact details
-    - email :: kk@gmail.com
+    - email :: gachuieve32@gmail.com
     - phone :: +254743434344
