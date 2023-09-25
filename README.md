@@ -1,5 +1,5 @@
 
-#### **By Everlyn Njeri 25/09/2023**
+#### **By Everlyn Njeri 22/09/2023**
 ## Project Description
 #### Grade Generator
     Write a function that prompts the user to input student marks. The 
