@@ -1,61 +1,43 @@
-# Toy-Problems-code-challenge
-This is a set of code challenges that calculate:
-student grade, speed limit detector and employee net salary based on user input.
 
-<!-- GETTING STARTED -->
-## Getting Started
-Below is a list of guidelines to help you get started
-### Prerequisites
+#### **By Everlyn Njeri 25/09/2023**
+## Project Description
+#### Grade Generator
+    Write a function that prompts the user to input student marks. The 
+    input should be between 0 and 100. The output should correspond the 
+    correct grade, as shown below: 
 
-Before you begin, ensure you have met the following requirements:
+        A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40.
+#### Speed Detector 
+    Write a program that takes the speed of a car as input e.g 80. If the speed is less than 70, it should print “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points.
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+    > For example, if the speed is 80, it should print: “Points: 2”. If the driver gets more than 12 points, the function should print: “License suspended”.
+
+#### Net Salary Calculator
+    Write a program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits. Calculate the payee (i.e. Tax), NHIF Deductions, NSSF Deductions, gross salary, and net salary. 
+
+    NB: Use KRA, NHIF, and NSSF values provided in the link below.
+
+   - https://www.aren.co.ke/payroll/taxrates.htm Links to an external site.
+
+   Links to an external site.-  Links to an external site.Links to an external site.
+
+  - www.kra.go.ke/en/individual/calculate-tax/calculating-tax/payeLinks to an external site.
 
 
-### Installation
-
-To install Node, follow these steps:
-
-
-1. Install node
-   ```
-   node install
-   ```
-2. Install NPM packages
-   ```sh
+## Setup/Installation Requirements
+    - Clone the repository to any desired folder in your computer
+    - Open the cloned folder with vscode.
+    - Run individual files in your terminal using the command `node name_of_the_file` i.e `node 1.grade_generator.js`
+    - And you are good to go
    
-   npm install
-   ```
 
-3. Clone the repository
-   ```sh
-   git https://github.com/codeitownit/Toy-Problems-code-challenge.git
-   ```
+## Known Bugs
+    The toy problem work fine.
 
+## Technologies used
+    - Javascript
+    - Terminal
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-<!-- LICENSE -->
-## License
-
-This project is free to use and does not contains any license.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Author
-
- - Everlyn Njeri
-
-Project Link: [https://github.com/codeitownit/Toy-Problems-code-challenge](https://github.com/codeitownit/Toy-Problems-code-challenge)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
+## Support and contact details
+    - email :: kk@gmail.com
+    - phone :: +254743434344
